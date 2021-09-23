@@ -1,17 +1,12 @@
-body {
-  background-color: red;
-  color: blue;
-  font-size: 25px;
+.title {
+  background-color: cadetblue;
+  padding: 100px;
+  text-align: center;
+  color: aliceblue;
 }
-h1 {
-  color: green;
-}
-.main-HEADER {
-  color: WHITE;
-}
-.main-header {
-  color: black;
-}
-#id {
-  color: purple;
+.blogposts {
+  background-color: ;
+  padding: 100px;
+  text-align: center;
+  color: aliceblue;
 }
