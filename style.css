@@ -1,12 +1,17 @@
 .title {
   background-color: cadetblue;
+  background-image: url(cat.jpg);
   padding: 100px;
   text-align: center;
   color: aliceblue;
+  
 }
-.blogposts {
-  background-color: ;
-  padding: 100px;
+.blogposts{
+  position: relative;
   text-align: center;
-  color: aliceblue;
+  background-color:cadetblue;
+  margin: 45px 45px 45px 45px;
+  padding-bottom: 3ch;
+  padding-top: 2ch;
 }
+
